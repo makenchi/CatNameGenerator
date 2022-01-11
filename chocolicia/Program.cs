@@ -17,6 +17,7 @@ namespace chocolicia
             try
             {
                 string sexCat = _prompt.askSexCat();
+                int ageCat = _prompt.askAgeCat();
             }
             catch (Exception err)
             {

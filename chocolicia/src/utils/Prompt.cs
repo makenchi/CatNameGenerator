@@ -15,6 +15,21 @@ namespace chocolicia.src.utils
             Console.WriteLine(message);
         }
 
+        public int askAgeCat()
+        {
+            Console.Write("Entre com a idade em meses do seu felino: ");
+            int ageCat = Console.Read();
+
+
+
+            if (int.TryParse(ageCat.ToString(), out int n) == false)
+            {
+                throw new Exception();
+            }
+
+            return ageCat;
+        }
+
         public string askSexCat()
         {
             Console.Write("Entre com o sexo do seu felino, digite 0 para masculino e 1 para feminino: ");
