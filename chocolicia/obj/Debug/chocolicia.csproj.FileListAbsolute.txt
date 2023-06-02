@@ -1,7 +1,0 @@
-F:\Makenchi's Dungeon\Projetos\Visual Studio\chocolicia\chocolicia\bin\Debug\chocolicia.exe.config
-F:\Makenchi's Dungeon\Projetos\Visual Studio\chocolicia\chocolicia\bin\Debug\chocolicia.exe
-F:\Makenchi's Dungeon\Projetos\Visual Studio\chocolicia\chocolicia\bin\Debug\chocolicia.pdb
-F:\Makenchi's Dungeon\Projetos\Visual Studio\chocolicia\chocolicia\obj\Debug\chocolicia.csproj.AssemblyReference.cache
-F:\Makenchi's Dungeon\Projetos\Visual Studio\chocolicia\chocolicia\obj\Debug\chocolicia.csproj.CoreCompileInputs.cache
-F:\Makenchi's Dungeon\Projetos\Visual Studio\chocolicia\chocolicia\obj\Debug\chocolicia.exe
-F:\Makenchi's Dungeon\Projetos\Visual Studio\chocolicia\chocolicia\obj\Debug\chocolicia.pdb
